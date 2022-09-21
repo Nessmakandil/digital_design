@@ -1,0 +1,8 @@
+{F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v} {1 {vlog -work work -stats=none {F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_div_tb
+
+Top level modules:
+	clk_div_tb
+
+} {} {}}

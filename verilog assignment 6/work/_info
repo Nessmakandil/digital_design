@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vclk_div
+!s110 1663730130
+!i10b 1
+!s100 4K5E[OhEIazQM`J>BRI8S3
+IEmAf4C<4oCe_a1TzUR]_g2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dF:/Digital_Design_Diploma/verilog assigments/verilog assignment 6
+w1663729943
+8F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div.v
+FF:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z3 !s108 1663730129.000000
+!s107 F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vclk_div_tb
+!s110 1663730129
+!i10b 1
+!s100 VPl=XBn0U44[6KSOMa_n30
+IQ9fD0GMJfDX@i>?7hi9DG0
+R0
+R1
+w1663729770
+8F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v
+FF:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+R3
+!s107 F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Digital_Design_Diploma/verilog assigments/verilog assignment 6/clk_div_tb.v|
+!i113 1
+R4
+R5
