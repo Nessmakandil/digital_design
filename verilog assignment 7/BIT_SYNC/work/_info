@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/Digital_Design_Diploma/verilog assigments/verilog assignment 6
+vBIT_SYNC
+Z0 !s110 1665075110
+!i10b 1
+!s100 7Jz@F0DXW]?EY2V>S[d;H0
+IAISBWM8fi7YoKf5KBjVB]3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC
+w1665074271
+8F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC.v
+FF:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1665075110.000000
+!s107 F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@b@i@t_@s@y@n@c
+vBIT_SYNC_TB
+R0
+!i10b 1
+!s100 A`;N:8b2g6LH:zjMI[^3Z3
+II;Zg=A@YXPHC4clT^E:<B3
+R1
+R2
+w1665075101
+8F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC_TB.v
+FF:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC_TB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|F:/Digital_Design_Diploma/verilog assigments/verilog assignment 7/BIT_SYNC/BIT_SYNC_TB.v|
+!i113 1
+R5
+R6
+n@b@i@t_@s@y@n@c_@t@b
